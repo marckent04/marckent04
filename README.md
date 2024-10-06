@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Software architecture, Golang, AWS**
 
-💬 Ask me about **Node.js, Vue.JS, Golang, FLutter... or anything in relation with programming**
+💬 Ask me about **Javascript, Golang, Typescript, Node.js, Vue.JS, Flutter... or anything in relation with programming**
 
 ⚡ Fun fact **Luffy travels around the world in sandals because he learned that other shoes can be traced.**
 
