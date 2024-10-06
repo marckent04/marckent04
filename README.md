@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marckent04&langs_count=8&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marckent04&show_icons=true&theme=merko)
